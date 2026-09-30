@@ -10,7 +10,7 @@
 
 **Who are you designing for?**  
 
-- Visitors attending Diyandi Festival sa Iligan
+- Visitors attending Diyandi Festival in Iligan
 
 **Why might this group need support during Diyandi?**  
 
@@ -57,12 +57,12 @@ Describe **two specific actions** that users could perform using your proposed s
 
 Identify **two qualities** that would make your proposed system useful. You may consider whether it should be easy to use, fast, reliable, safe, private, accessible, multilingual, low-data, clear, or available during high demand.
 
-### Quality 1: [Easy to use]
+### Quality 1: Easy to use
 
 **Why does this matter to users?**  
 - The website should have a simple and clear interface so visitors can quickly report or search for lost belongings without having a hard time navigating on it.
 
-### Quality 2: [Low data]
+### Quality 2: Low data
 
 **Why does this matter to users?**  
 
@@ -81,16 +81,11 @@ How could you determine whether your proposed solution actually helped users?
 
 ## 8. Screenshot or reference
 
-You may include **one screenshot** or reference image only if it does not contain personal, confidential, or sensitive information.
-
-> Do not include passwords, private messages, account numbers, grades, addresses, personal information, or other confidential content.
-
-<!-- Example Markdown image syntax:
-![Brief description of screenshot](path/to/image.png)
--->
+None
 
 **External sources used, if any:**  
-[Add links or citations here. If you did not use any external sources, write: None.]
+
+None
 
 ---
 
