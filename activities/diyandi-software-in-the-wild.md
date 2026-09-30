@@ -1,8 +1,8 @@
 # Software in the Wild: Improving the Diyandi Experience Through Software
 
-> **Name:** [Pauline N. Fernan]  
-> **Section:** [CS3B]  
-> **Date submitted:** [2026-09-30]
+> **Name:** Pauline N. Fernan  
+> **Section:** CS3B  
+> **Date submitted:** 2026-09-30
 
 ---
 
@@ -10,11 +10,11 @@
 
 **Who are you designing for?**  
 
-- Visitors attending Diyandi Festival in Iligan
+- Visitors attending Diyandi Festival in Iligan City
 
 **Why might this group need support during Diyandi?**  
 
-- While attending the Diyandi events, the visitors might find themselves in a situation where they accidentally left or lose their belongings. Because they are just visitors in Iligan City and aren't familiar with the area, they would have a hard time knowing who to go to when they attempt to report their lost items.
+- While attending the Diyandi Festival events, the visitors might find themselves in a situation where they accidentally left or lose their belongings. Because they are just visitors in Iligan City and aren't familiar with the area, they would have a hard time knowing who to go to when they attempt to report their lost items.
 
 ---
 
@@ -118,4 +118,4 @@ Select **one** option below and complete the applicable details.
 
 I confirm that this work is based primarily on my own observation, experience, and reasoning. Any external sources or tools used have been acknowledged above.
 
-**Name:** [Pauline N. Fernan]
+**Name:** Pauline N. Fernan
